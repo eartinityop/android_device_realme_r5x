@@ -2053,6 +2053,7 @@ vendor/lib64/libsecureui_svcsock.so|6af612f057f4f28720d6db9b300b58c883da6539
 vendor/lib64/libsi.so|77faf2818d08764f1c408f2ba26bfdbb5a0e8afb
 vendor/lib64/libssd.so|071e356c537195fc1fab8c725e3e70850711dff9
 vendor/lib64/libtrustedapploader.so|e9ebd0130381cf60219d4c511a8e6908684cb7ab
+vendor/lib64/libspl.so|0cf185c22519bbae1e1232928fda151f538f9977
 
 # DRM - Widevine
 vendor/bin/hw/android.hardware.drm@1.3-service.widevine
