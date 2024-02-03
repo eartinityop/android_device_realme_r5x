@@ -360,6 +360,11 @@ PRODUCT_COPY_FILES += \
 # PRODUCT_SHIPPING_API_LEVEL indicates the first api level, device has been commercially launched on.
 PRODUCT_SHIPPING_API_LEVEL := 28
 
+# Protobuf
+PRODUCT_PACKAGES += \
+    libprotobuf-cpp-full-3.9.1-vendorcompat \
+    libprotobuf-cpp-lite-3.9.1-vendorcompat
+
 # Public Libraries
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt
