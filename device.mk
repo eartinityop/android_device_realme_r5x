@@ -343,7 +343,7 @@ PRODUCT_PACKAGES += \
     SystemUIOverlayR5x \
     WifiOverlayR5x \
     FrameworksOverlayR5x \
-    TetheringCOverlayR5x \
+    TetheringOverlayR5x \
     BluetoothOverlayR5x \
     ApertureOverlay
 
@@ -525,7 +525,7 @@ PRODUCT_PACKAGES += \
     android.hardware.radio.deprecated@1.0.vendor \
     android.hardware.radio@1.5.vendor \
     android.hardware.secure_element@1.2.vendor \
-    android.hardwareundtrigger@2.3.vendor \
+    android.hardware.soundtrigger@2.3.vendor \
     android.hardware.usb.gadget@1.1.vendor \
     android.hardware.usb@1.2.vendor \
     android.hardware.vibrator@1.3.vendor \
